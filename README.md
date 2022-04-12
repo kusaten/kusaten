@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @kusaten
-- 👀 I’m interested in BCG制作
+- 👀 I’m Frontend Engineer on BCG・NFT
+- 🐶 I also can programm Solidity a little bit. But it's only full onchain Dev.
